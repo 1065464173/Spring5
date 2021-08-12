@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/spring5-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-demo4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-jdbc-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-jdbc-template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-new-features/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring5-new-features/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/bean/Dog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfAOP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfProfile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/config/MainConifgOfAutowired.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/ext/ExtConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/java/com/atguigu/tx/TxConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/resources/SpringSource.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/test/java/com/atguigu/test/IOCTest_Profile.java" charset="GBK" />
+  </component>
+</project>

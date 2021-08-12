@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring5.iml" filepath="$PROJECT_DIR$/Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/main.iml" filepath="$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/spring-annotation.iml" filepath="$PROJECT_DIR$/../../../学习资料/spring注解驱动/代码/spring-annotation/spring-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5-annotation/spring5-annotation.iml" filepath="$PROJECT_DIR$/spring5-annotation/spring5-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5-demo1/spring5-demo1.iml" filepath="$PROJECT_DIR$/spring5-demo1/spring5-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5-demo2/spring5-demo2.iml" filepath="$PROJECT_DIR$/spring5-demo2/spring5-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5-demo3/spring5-demo3.iml" filepath="$PROJECT_DIR$/spring5-demo3/spring5-demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5-demo4/spring5-demo4.iml" filepath="$PROJECT_DIR$/spring5-demo4/spring5-demo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5-jdbc-template/spring5-jdbc-template.iml" filepath="$PROJECT_DIR$/spring5-jdbc-template/spring5-jdbc-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5-new-features/spring5-new-features.iml" filepath="$PROJECT_DIR$/spring5-new-features/spring5-new-features.iml" />
+    </modules>
+  </component>
+</project>

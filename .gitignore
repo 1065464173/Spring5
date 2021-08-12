@@ -1,0 +1,8 @@
+# 项目排除路径
+/spring5-annotation/target/
+/spring5-demo1/target/
+/spring5-demo2/target/
+/spring5-demo3/target/
+/spring5-demo4/target/
+/spring5-jdbc-template/target/
+/spring5-new-features/target/

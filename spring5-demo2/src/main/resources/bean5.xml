@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--自动装配
+        autoWrite：
+            byName根据名称注入：id，名称和bean内属性的名称相同
+            byType根据类型注入：class，类型和bean内属性的类型相同
+                   有多个相同的type时会报错-->
+    <bean id="emp"
+          class="top.sxuet.autowrite.Emp"
+          autowire="byType">
+        <!--        <property name="dept" ref="dept"/>-->
+    </bean>
+    <bean id="dept" class="top.sxuet.autowrite.Dept"/>
+    <!--    <bean id="dept1" class="top.sxuet.autowrite.Dept"/>-->
+</beans>

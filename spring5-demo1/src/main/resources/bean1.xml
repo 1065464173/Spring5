@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--配置对象的配置-->
+    <bean id="user" class="top.sxuet.bean.User"/>
+
+    <!--set方法注入-->
+    <bean id="book" class="top.sxuet.bean.Book">
+        <!--使用property完成属性注入-->
+        <!--name：属性名， value：属性值-->
+        <property name="name" value="java"/>
+        <property name="bauthor" value="sxuet"/>
+        <!--注入null值-->
+        <property name="address">
+            <null/>
+        </property>
+        <!--特殊符号的注入-->
+        <property name="desc">
+            <value>
+                <![CDATA[<<真好看>>]]>
+            </value>
+        </property>
+    </bean>
+
+    <!--有参构造器注入-->
+    <bean id="orders" class="top.sxuet.bean.Orders">
+        <constructor-arg name="oname" value="abc"/>
+        <constructor-arg name="address" value="china"/>
+    </bean>
+
+    <!--p空间名称注入-->
+    <bean id="book2" class="top.sxuet.bean.Book" p:name="sxuet" p:bauthor="hello"/>
+</beans>
